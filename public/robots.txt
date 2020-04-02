@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+sitemap: http://template-builder.net/sitemap.xml
+Host: http://template-builder.net
